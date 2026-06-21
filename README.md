@@ -1,4 +1,4 @@
-# Hi, I'm Anri. 👋
+# Hi, I'm Etherni. 👋
 
 Most people separate "deep thinker" from "gets things done."  
 I find that distinction mostly useful for avoiding accountability.
