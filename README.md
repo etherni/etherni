@@ -93,7 +93,7 @@ Building something in the ZK or AI agent space and hitting the governance wall?
 Working on a nonprofit grant strategy and drowning in manual research?  
 Read something here that made you argue with your screen?
 
-→ [LinkedIn](https://linkedin.com/in/ansimi)  
+→ [LinkedIn](https://www.linkedin.com/in/asinelnikov)  
 → [Operators Guild writing](https://forum.ceg.vote/c/community-hub/guilds/operators-guild/51)
 
 *Serious conversations preferred. Cold pitches tolerated once.*
