@@ -7,7 +7,7 @@ I find that distinction mostly useful for avoiding accountability.
 
 ## What I Actually Do
 
-I'm a **Systems & Solutions Architect** with 20+ years of building things that work inside organizations that sometimes don't.
+I'm a **Systems & Solutions Architect** with 25+ years of building things that work inside organizations that sometimes don't.
 
 My specific obsession: **the gap between what systems are designed to do and what they actually do** and the human decisions (or their absece) that create that gap.
 
