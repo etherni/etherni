@@ -21,7 +21,7 @@ This shows up in my work as:
 
 Currently: process and governance lead (COO function) across the **Metis Foundation** portfolio ([Metis L2](https://metis.io), [ZKM](https://zkm.io), [GOAT Network](https://goat.network), [LazAI](https://lazai.network/), HoZK), and COO of [CryptoChicks](https://cryptochicks.ca), a non-profit teaching AI and blockchain skills to women and youth worldwide.
 
-Four years of that has been operations for a distributed, multinational, remote team with a deliberately non-enterprise mindset. Enterprise process does not survive contact with that environment. Neither does no process. Working out what does is the most interesting problem I have had.
+In practice that means operations for a distributed, multinational, remote team with a deliberately non-enterprise mindset. Enterprise process does not survive that environment. Neither does no process. Working out what does is the most interesting problem I have had.
 
 ---
 
@@ -60,7 +60,7 @@ I write about this at the [Operators Guild](https://forum.ceg.vote/c/community-h
 - Currently: Decentralization Coordinator, Process & Governance (COO function), Metis Foundation. COO, CryptoChicks (volunteer).
 - Toronto-based, remote and async-first, working across NA and EU time zones.
 
-**Stack I work in:** ClickUp, Power BI, Google Cloud, Google Workspace, Microsoft Azure and Microsoft 365, .NET, SQL Server, self-hosted secrets and credential management, Claude Code, and whatever the engagement requires.
+**Stack I work in:** ClickUp, Power BI, Google Cloud, Google Workspace, Microsoft Azure and Microsoft 365, .NET, SQL Server, Discourse and the infrastructure under it, self-hosted secrets and credential management, Claude Code, and whatever the engagement requires.
 
 ---
 
