@@ -7,18 +7,21 @@ I find that distinction mostly useful for avoiding accountability.
 
 ## What I Actually Do
 
-I'm a **Fractional COO / Operations Architect** with 25+ years building things that work inside organizations that sometimes don't.
+I'm a **Fractional COO / Operations Architect**. Consulting since 2002, building things that work inside organizations that sometimes don't.
 
 My specific obsession: **the gap between what an organization says it does and how it actually operates**, and the human decisions, or their absence, that create that gap.
 
 This shows up in my work as:
 
 - **Task governance and self-running administration**: process where ownership is visible, drift gets caught early, and nobody is chasing paperwork.
-- **Asset and cost accountability**: every tool, domain, and license accounted for and current, so an organization can scale down in a week instead of a quarter.
+- **Asset and cost accountability**: every tool, domain, and license accounted for and current, so an organization can execute a scale change in a week.
+- **Access and credential accountability**: self-hosted secrets and credential management for organizations whose current security model is that the sysadmin knows all the passwords.
 - **AI in operations, humans accountable**: automations and agents run through daily work. One rule is non-negotiable: no AI output acts without human review and approval.
-- **Grants Intelligence**: an AI-assisted pipeline that ingests and scores funding programs against an organization's profile. Shipped as a working MVP in one week; in production, tracking 36 funding programs and 100+ scored leads.
+- **Grants Intelligence**: an AI-assisted pipeline that ingests and scores funding programs against an organization's profile.
 
-Currently: process and governance lead (COO function) across the **Metis Foundation** portfolio ([Metis L2](https://metis.io), [ZKM](https://zkm.io), [GOAT Network](https://goat.network)), and COO of [CryptoChicks](https://cryptochicks.ca), a non-profit teaching AI and blockchain skills to women and youth worldwide.
+Currently: process and governance lead (COO function) across the **Metis Foundation** portfolio ([Metis L2](https://metis.io), [ZKM](https://zkm.io), [GOAT Network](https://goat.network), [LazAI](https://lazai.network/), HoZK), and COO of [CryptoChicks](https://cryptochicks.ca), a non-profit teaching AI and blockchain skills to women and youth worldwide.
+
+Four years of that has been operations for a distributed, multinational, remote team with a deliberately non-enterprise mindset. Enterprise process does not survive contact with that environment. Neither does no process. Working out what does is the most interesting problem I have had.
 
 ---
 
@@ -28,7 +31,9 @@ Currently: process and governance lead (COO function) across the **Metis Foundat
 
 AI-assisted ingestion and scoring of funding programs and partnership candidates, Power BI reporting, and a ClickUp pipeline the team works from.
 
-First working version shipped in one week. In production: 36 funding programs and 100+ scored leads tracked. Built for CryptoChicks; the model is portable to other resource-constrained non-profits running on grant funding.
+First working version shipped in one week. In production: 36 funding programs and 100+ scored leads tracked. Co-application discovery shipped as the first stage; improvements in progress.
+
+Built for CryptoChicks. The model is portable to other resource-constrained non-profits running on grant funding.
 
 ---
 
@@ -50,13 +55,12 @@ I write about this at the [Operators Guild](https://forum.ceg.vote/c/community-h
 
 ## Background
 
-- 25+ years, delivered almost entirely as a consultant: placed inside a new client, new team, new domain every year or two. Nuclear (Bruce Power), fintech (Servus Credit Union), Government of Alberta departments, Edmonton Police Service.
+- Consulting since 2002, delivered almost entirely as an outsider working inside someone else's organization, accountable from the first week without institutional cover. Nuclear (Bruce Power), fintech (Servus Credit Union), Government of Alberta departments, Edmonton Police Service, City of Edmonton, Workers' Compensation Board.
 - Master of Computer Science, evaluated and confirmed by World Education Services (WES), November 2025.
-- Currently: Decentralization Coordinator, Process & Governance (COO function), Metis Foundation. COO, CryptoChicks.
+- Currently: Decentralization Coordinator, Process & Governance (COO function), Metis Foundation. COO, CryptoChicks (volunteer).
 - Toronto-based, remote and async-first, working across NA and EU time zones.
-- Portuguese Golden Visa in progress: biometrics and A2 language certification complete.
 
-**Stack I work in:** ClickUp, Power BI, Google Cloud, Microsoft Azure, .NET, SQL Server, Claude Code, and whatever the engagement requires.
+**Stack I work in:** ClickUp, Power BI, Google Cloud, Google Workspace, Microsoft Azure and Microsoft 365, .NET, SQL Server, self-hosted secrets and credential management, Claude Code, and whatever the engagement requires.
 
 ---
 
@@ -66,7 +70,7 @@ A penetration tester. A compliance checkbox vendor. Someone who runs your payrol
 
 If your systems work exactly as documented and your team does exactly what it's supposed to, you don't need me.
 
-If there's a gap between the org chart and reality, between the policy document and actual behavior, that's the gap I've spent 25 years building infrastructure to close.
+If there's a gap between the org chart and reality, between the policy document and actual behavior, that's the gap I've spent two decades building infrastructure to close.
 
 ---
 
